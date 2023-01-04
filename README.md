@@ -9,11 +9,10 @@
 -phenotypes (=column names) are listed and non-dash values are counted for each phenotype
 -phenotypes with the most non-dash values are listed and five interesting phenotypes for further analysis picked 
 
-1.Lactose intolerance
-2.Nicotine dependence
-3.Blood type
-4.Aspirin Allergy
-5.Haplogroup
+1.Lactose intolerance<br>2.Nicotine dependence
+<br>3.Blood type
+<br>4.Aspirin Allergy
+<br>5.Haplogroup
 
 -phenotype charactization for 1. - 5. 
 -> users with incomplete report are discarded
